@@ -1,2 +1,2 @@
-# ConferenceBio
-Bio for conference speaker sessions
+# Conference Bio
+This repository is for the bio information and headshot for Carlo Fusco to be used in conference directories.
