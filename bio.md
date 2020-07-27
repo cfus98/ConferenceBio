@@ -1,6 +1,5 @@
 **Carlo Fusco**
-
-Head of Library/Science Teacher
+**Head of Library/Science Teacher**
 
 Carlo Fusco is a Teacher-Librarian and Science Teacher at Waterloo Collegiate Institute, in Waterloo, Ontario. 
 
