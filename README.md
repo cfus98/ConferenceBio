@@ -3,4 +3,4 @@ This repository is for the bio information and headshot for Carlo Fusco to be us
 
 Photo
 
-Bio
+[Bio](https://github.com/cfus98/ConferenceBio/blob/master/bio.md)
